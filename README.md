@@ -112,8 +112,8 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 ![311115113-139579a7-c94a-45d1-8714-93741bc4061a](https://github.com/obedotto/policy-iteration-algorithm/assets/113497395/176efa10-9f7f-4a8c-a9ab-3a9dba01ad03)
 
 ### Success Rate for Optimal Policy:
-![311115095-a88f4690-3e6d-418b-8f19-cb66d582f878](https://github.com/obedotto/policy-iteration-algorithm/assets/113497395/9ad27010-5a60-4f86-b8ad-7fc07c814a74)
 
+![WhatsApp Image 2024-03-12 at 14 14 10_43c13a05](https://github.com/SivaChandranR07/policy-iteration-algorithm/assets/113497395/ec6ad2a3-307f-45c7-9a55-3a6972005db6)
 
 
 ## RESULT:
